@@ -709,3 +709,8 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 [2022.11.12-23.15.39:334][928]LogSlate: Window 'Plugins' being destroyed
 [2022.11.12-23.15.39:335][928]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/' was aborted.
 [2022.11.12-23.16.44:162][199]LogDerivedDataCache: C:/Users/49176/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.009 and deleted 0 file(s) with total size 0 MiB.
+[2022.11.12-23.28.42:849][529]LogPackageLocalizationCache: Processed 30 localized package path(s) for 1 prioritized culture(s) in 0.004752 seconds
+[2022.11.12-23.28.42:851][529]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/HF/9H7TKAXH9DD8KI3TIXGI2I
+[2022.11.12-23.28.42:852][529]LogSavePackage: Moving '../../../../../UE/gtabeijing/Saved/9H7TKAXH9DD8KI3TIXGI2IE25594FC46EE9BC3FB9C33BAB8249D05.tmp' to '../../../../../UE/gtabeijing/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/HF/9H7TKAXH9DD8KI3TIXGI2I.uasset'
+[2022.11.12-23.28.42:898][529]AssetCheck: New page: Asset Save: StaticMeshActor_33
+[2022.11.12-23.28.42:898][529]LogContentValidation: Display: Validating StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_33
